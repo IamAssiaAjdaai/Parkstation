@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\20240327143024_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\20240327143024_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\cardetaildbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\cardetaildbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\20240327143024_firstmig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\20240327143024_firstmig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\controllers\\carsdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:controllers\\carsdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\testp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:testp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDetailDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:08:44.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240327143024_FirstMig.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240327143024_FirstMig.Designer.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240327143024_FirstMig.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:08:40.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarsDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Controllers\\CarsDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsDetailsController.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Controllers\\CarsDetailsController.cs",
+              "RelativeToolTip": "Controllers\\CarsDetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:33:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240327143024_FirstMig.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240327143024_FirstMig.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.cs",
+              "RelativeToolTip": "Migrations\\20240327143024_FirstMig.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:30:25.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestP.csproj",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\TestP.csproj",
+              "RelativeDocumentMoniker": "TestP.csproj",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\TestP.csproj",
+              "RelativeToolTip": "TestP.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T14:28:49.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T13:49:59.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:47:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDetailDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarDetailDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CarDetailDbContext.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarDetailDbContext.cs",
+              "RelativeToolTip": "Models\\CarDetailDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:38:12.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarsDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CarsDetail.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarsDetail.cs",
+              "RelativeToolTip": "Models\\CarsDetail.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:33:35.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
