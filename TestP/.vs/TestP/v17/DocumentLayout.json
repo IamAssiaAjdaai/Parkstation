@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\",
+  "WorkspaceRootPath": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\20240327143024_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\migrations\\20240327143024_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\20240327143024_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\cardetaildbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\migrations\\cardetaildbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\cardetaildbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\migrations\\20240327143024_firstmig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\migrations\\20240327143024_firstmig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:migrations\\20240327143024_firstmig.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\controllers\\carsdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\controllers\\carsdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:controllers\\carsdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\testp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\testp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:testp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\testp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\cardetaildbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|c:\\users\\assia.ajdaai\\documents\\project\\csharp\\parktest\\parkstation\\testp\\models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D818E-438A-482C-A3C4-A55FD77D5990}|TestP.csproj|solutionrelative:models\\carsdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,63 +78,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CarDetailDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\CarDetailDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\CarDetailDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\CarDetailDbContextModelSnapshot.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:08:44.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T15:08:44.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240327143024_FirstMig.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240327143024_FirstMig.Designer.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240327143024_FirstMig.Designer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:08:40.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240327143024_FirstMig.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240327143024_FirstMig.Designer.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.Designer.cs",
-              "RelativeToolTip": "Migrations\\20240327143024_FirstMig.Designer.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwCUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:08:40.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "CarsDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Controllers\\CarsDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Controllers\\CarsDetailsController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarsDetailsController.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Controllers\\CarsDetailsController.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Controllers\\CarsDetailsController.cs",
               "RelativeToolTip": "Controllers\\CarsDetailsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T14:33:57.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T14:33:57.869Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "20240327143024_FirstMig.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\20240327143024_FirstMig.cs",
               "RelativeDocumentMoniker": "Migrations\\20240327143024_FirstMig.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Migrations\\20240327143024_FirstMig.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Migrations\\20240327143024_FirstMig.cs",
               "RelativeToolTip": "Migrations\\20240327143024_FirstMig.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBMAAAAUAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wBMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T14:30:25.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "TestP.csproj",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\TestP.csproj",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\TestP.csproj",
               "RelativeDocumentMoniker": "TestP.csproj",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\TestP.csproj",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\TestP.csproj",
               "RelativeToolTip": "TestP.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -142,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\appsettings.json",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -154,42 +151,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Program.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T13:47:02.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:47:02.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CarDetailDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarDetailDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Models\\CarDetailDbContext.cs",
               "RelativeDocumentMoniker": "Models\\CarDetailDbContext.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarDetailDbContext.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Models\\CarDetailDbContext.cs",
               "RelativeToolTip": "Models\\CarDetailDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T13:38:12.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:38:12.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CarsDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarsDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Models\\CarsDetail.cs",
               "RelativeDocumentMoniker": "Models\\CarsDetail.cs",
-              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\TestP\\Models\\CarsDetail.cs",
+              "ToolTip": "C:\\Users\\Assia.Ajdaai\\Documents\\Project\\Csharp\\ParkTest\\Parkstation\\TestP\\Models\\CarsDetail.cs",
               "RelativeToolTip": "Models\\CarsDetail.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T13:33:35.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:33:35.916Z"
             }
           ]
         },
